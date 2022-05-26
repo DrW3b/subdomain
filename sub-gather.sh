@@ -12,7 +12,7 @@ mkdir $folder
 
 
 subdomain_enum() {
-    cd Sublist3r 
+    #cd Sublist3r 
     python3 sublist3r.py -d $target -o ~/$folder/subs.txt > /dev/null
     cd ~/$folder
     count=$(wc -l < subs.txt)
