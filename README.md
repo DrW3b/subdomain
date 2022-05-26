@@ -1,11 +1,16 @@
 this script works only on kali linux
 
 
-----------------------------
-Tools needed:
+used tools:
+
 sublist3r
+
 assetfinder 
+
 subfinder 
+
 findomain 
+
 httprobe 
+
 httpx
